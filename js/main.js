@@ -1,1 +1,2256 @@
-!function(){"use strict";let o=[{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jane Cooper",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Jerome Bell",company:"Google",phoneNumber:"(629) 555-0129",email:"jerome@google.com",country:"Réunion",status:"Active"},{name:"Kathryn Murphy",company:"Microsoft",phoneNumber:"(406) 555-0120",email:"kathryn@microsoft.com",country:"Curaçao",status:"Active"},{name:"Jacob Jones",company:"Yahoo",phoneNumber:"(208) 555-0112",email:"jacob@yahoo.com",country:"Brazil",status:"Active"},{name:"Kristin Watson",company:"Facebook",phoneNumber:"(704) 555-0127",email:"kristin@facebook.com",country:"Åland Islands",status:"Inactive"},{name:"Jane CПР",company:"Microsoft",phoneNumber:"(225) 555-0118",email:"jane@microsoft.com",country:"United States",status:"Active"},{name:"Floyd Miles",company:"Yahoo",phoneNumber:"(205) 555-0100",email:"floyd@yahoo.com",country:"Kiribati",status:"Inactive"},{name:"Ronald Richards",company:"Adobe",phoneNumber:"(302) 555-0107",email:"ronald@adobe.com",country:"Israel",status:"Inactive"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"},{name:"Marvin McKinney",company:"Tesla",phoneNumber:"(252) 555-0126",email:"marvin@tesla.com",country:"Iran",status:"Active"}];const a=[...o],e=document.querySelector(".pagination__entries"),n=document.querySelector(".header__search-input");let t=o.length,m=1,c=Math.ceil(t/8);function i(){const a=document.querySelector(".pagination__box");a.innerHTML="";const n=r("‹","prev",(()=>{m>1&&(m--,i())}));a.appendChild(n);const u=Math.floor(2),l=Math.min(Math.max(m-u,1),c-4+1),y=Math.min(l+4-1,c);if(l>1){const o=r(1,"",(()=>{s(1)}));if(a.appendChild(o),l>2){const o=Math.max(l-4,1),e=r("...","",(()=>{s(o-1)}));a.appendChild(e)}}for(let o=l;o<=y;o++){const e=r(o,"",(()=>{s(o)}));a.appendChild(e)}if(y<c){if(y<c-1){const o=Math.min(y+4,c),e=r("...","",(()=>{s(o+1)}));a.appendChild(e)}const o=r(c,"",(()=>{s(c)}));a.appendChild(o)}const p=r("›","next",(()=>{m<c&&(m<c-u?m++:m=c,i())}));a.appendChild(p),function(){const a=8*(m-1)+1,n=Math.min(a+8-1,t);e.textContent=`Showing data ${a} to ${n} of ${t}K entries`,document.querySelectorAll(".pagination__box button").forEach((o=>{o.classList.remove("pagination__active-btn"),o.textContent===m.toString()&&o.classList.add("pagination__active-btn")})),function(){const a=document.getElementById("tableBody"),e=8*(m-1),n=Math.min(e+8,t);a.innerHTML="";for(let t=e;t<n;t++){const e=o[t],n=document.createElement("tr");n.classList.add("table__rowline"),n.innerHTML=`\n      <td class="table__cell">${e.name}</td>\n      <td class="table__cell">${e.company}</td>\n      <td class="table__cell">${e.phoneNumber}</td>\n      <td class="table__cell">${e.email}</td>\n      <td class="table__cell">${e.country}</td>\n      <td class="table__cell">\n        <p class="table__status-${e.status.toLowerCase()}">${e.status}</p>\n      </td>\n    `,a.appendChild(n)}}(),function(){const a=document.getElementById("cellphone-version-user-list");a.innerHTML="";const e=8*(m-1),n=Math.min(e+8,t);for(let t=e;t<n;t++){const e=o[t],n=document.createElement("li");n.classList.add("cellphone-version-user-list__card"),n.innerHTML=`\n      <h3 class="cellphone-version-user-list__name">${e.name}</h3>\n      <p class="cellphone-version-user-list__company"><span class="cellphone-version-user-list__text">Company:</span> ${e.company}</p>\n      <p class="cellphone-version-user-list__phone"><span class="cellphone-version-user-list__text">Phone Number:</span> ${e.phoneNumber}</p>\n      <p class="cellphone-version-user-list__email"><span class="cellphone-version-user-list__text">Email:</span> ${e.email}</p>\n      <p class="cellphone-version-user-list__country"><span class="cellphone-version-user-list__text">Country:</span>${e.country}</p>\n      <p class="cellphone-version-user-list__status table__status-${e.status.toLowerCase()}">${e.status}</p>\n    `,a.appendChild(n)}}()}()}function r(o,a,e){const n=document.createElement("button");return n.textContent=o,a?n.classList.add("pagination__btn",a):n.classList.add("pagination__btn"),n.addEventListener("click",e),n}function s(o){o>=1&&o<=c?(m=o,i()):o<1?(m=1,i()):o>c&&(m=c,i())}n.addEventListener("input",(()=>{const t=n.value.toLowerCase().trim();if(""!==t){const a=o.filter((o=>{const a=o.name.toLowerCase(),e=o.company.toLowerCase(),n=o.country.toLowerCase(),m=o.status.toLowerCase();return a.includes(t)||e.includes(t)||n.includes(t)||m.includes(t)}));o=a,m=1,c=Math.ceil(a.length/8),i();const n=8*(m-1)+1,r=Math.min(n+8-1,a.length);e.textContent=`Showing data ${n} to ${r} of ${a.length} entries`}else{o=[...a],m=1,c=Math.ceil(o.length/8),i();const n=8*(m-1)+1,t=Math.min(n+8-1,o.length);e.textContent=`Showing data ${n} to ${t} of ${o.length} entries`}})),i()}();
+'use strict'
+let peopleData = [
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jane Cooper",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Jerome Bell",
+    company: "Google",
+    phoneNumber: "(629) 555-0129",
+    email: "jerome@google.com",
+    country: "Réunion",
+    status: "Active"
+  },
+  {
+    name: "Kathryn Murphy",
+    company: "Microsoft",
+    phoneNumber: "(406) 555-0120",
+    email: "kathryn@microsoft.com",
+    country: "Curaçao",
+    status: "Active"
+  },
+  {
+    name: "Jacob Jones",
+    company: "Yahoo",
+    phoneNumber: "(208) 555-0112",
+    email: "jacob@yahoo.com",
+    country: "Brazil",
+    status: "Active"
+  },
+  {
+    name: "Kristin Watson",
+    company: "Facebook",
+    phoneNumber: "(704) 555-0127",
+    email: "kristin@facebook.com",
+    country: "Åland Islands",
+    status: "Inactive"
+  },
+  {
+    name: "Jane CПР",
+    company: "Microsoft",
+    phoneNumber: "(225) 555-0118",
+    email: "jane@microsoft.com",
+    country: "United States",
+    status: "Active"
+  },
+  {
+    name: "Floyd Miles",
+    company: "Yahoo",
+    phoneNumber: "(205) 555-0100",
+    email: "floyd@yahoo.com",
+    country: "Kiribati",
+    status: "Inactive"
+  },
+  {
+    name: "Ronald Richards",
+    company: "Adobe",
+    phoneNumber: "(302) 555-0107",
+    email: "ronald@adobe.com",
+    country: "Israel",
+    status: "Inactive"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+  {
+    name: "Marvin McKinney",
+    company: "Tesla",
+    phoneNumber: "(252) 555-0126",
+    email: "marvin@tesla.com",
+    country: "Iran",
+    status: "Active"
+  },
+];
+const originalData = [...peopleData];
+const entries = document.querySelector('.pagination__entries');
+const searchInput = document.querySelector('.header__search-input');
+let arrayLength = peopleData.length;
+const tableSize = 8;
+let currentIndex = 1;
+let maxIndex = Math.ceil(arrayLength / tableSize);
+
+function generateTableRows() {
+  const tableBody = document.getElementById("tableBody");
+  const startIdx = (currentIndex - 1) * tableSize;
+  const endIdx = Math.min(startIdx + tableSize, arrayLength);
+
+  tableBody.innerHTML = '';
+
+  for (let i = startIdx; i < endIdx; i++) {
+    const person = peopleData[i];
+    const row = document.createElement("tr");
+    row.classList.add('table__rowline');
+    row.innerHTML = `
+      <td class="table__cell">${person.name}</td>
+      <td class="table__cell">${person.company}</td>
+      <td class="table__cell">${person.phoneNumber}</td>
+      <td class="table__cell">${person.email}</td>
+      <td class="table__cell">${person.country}</td>
+      <td class="table__cell">
+        <p class="table__status-${person.status.toLowerCase()}">${person.status}</p>
+      </td>
+    `;
+    tableBody.appendChild(row);
+  }
+}
+
+function generateUserCards() {
+  const userCardsContainer = document.getElementById("cellphone-version-user-list");
+  userCardsContainer.innerHTML = '';
+
+  const startIdx = (currentIndex - 1) * tableSize;
+  const endIdx = Math.min(startIdx + tableSize, arrayLength);
+
+  for (let i = startIdx; i < endIdx; i++) {
+    const person = peopleData[i];
+    const userCard = document.createElement("li");
+    userCard.classList.add("cellphone-version-user-list__card");
+
+    userCard.innerHTML = `
+      <h3 class="cellphone-version-user-list__name">${person.name}</h3>
+      <p class="cellphone-version-user-list__company"><span class="cellphone-version-user-list__text">Company:</span> ${person.company}</p>
+      <p class="cellphone-version-user-list__phone"><span class="cellphone-version-user-list__text">Phone Number:</span> ${person.phoneNumber}</p>
+      <p class="cellphone-version-user-list__email"><span class="cellphone-version-user-list__text">Email:</span> ${person.email}</p>
+      <p class="cellphone-version-user-list__country"><span class="cellphone-version-user-list__text">Country:</span>${person.country}</p>
+      <p class="cellphone-version-user-list__status table__status-${person.status.toLowerCase()}">${person.status}</p>
+    `;
+
+    userCardsContainer.appendChild(userCard);
+  }
+}
+
+function displayPagination() {
+  const pagination = document.querySelector('.pagination__box');
+  pagination.innerHTML = "";
+  const prevBtn = createPaginationButton('‹', 'prev', () => {
+    if (currentIndex > 1) {
+      currentIndex--;
+      displayPagination();
+    }
+  });
+
+  pagination.appendChild(prevBtn);
+  const visiblePages = 4;
+  const halfVisiblePages = Math.floor(visiblePages / 2);
+  const firstVisiblePage = Math.min(Math.max(currentIndex - halfVisiblePages, 1), maxIndex - visiblePages + 1);
+  const lastVisiblePage = Math.min(firstVisiblePage + visiblePages - 1, maxIndex);
+
+  if (firstVisiblePage > 1) {
+    const firstBtn = createPaginationButton(1, '', () => {
+      paginationBtn(1);
+    });
+    pagination.appendChild(firstBtn);
+
+    if (firstVisiblePage > 2) {
+      const intervalStart = Math.max(firstVisiblePage - visiblePages, 1);
+      const intervalBtn = createPaginationButton('...', '', () => {
+        paginationBtn(intervalStart - 1);
+      });
+      pagination.appendChild(intervalBtn);
+    }
+  }
+
+  for (let i = firstVisiblePage; i <= lastVisiblePage; i++) {
+    const btn = createPaginationButton(i, '', () => {
+      paginationBtn(i);
+    });
+    pagination.appendChild(btn);
+  }
+
+  if (lastVisiblePage < maxIndex) {
+    if (lastVisiblePage < maxIndex - 1) {
+      const intervalEnd = Math.min(lastVisiblePage + visiblePages, maxIndex);
+      const intervalBtn = createPaginationButton('...', '', () => {
+        paginationBtn(intervalEnd + 1);
+      });
+      pagination.appendChild(intervalBtn);
+    }
+
+    const lastBtn = createPaginationButton(maxIndex, '', () => {
+      paginationBtn(maxIndex);
+    });
+    pagination.appendChild(lastBtn);
+  }
+
+  const nextBtn = createPaginationButton('›', 'next', () => {
+    if (currentIndex < maxIndex) {
+      if (currentIndex < maxIndex - halfVisiblePages) {
+        currentIndex++;
+      } else {
+        currentIndex = maxIndex;
+      }
+      displayPagination();
+    }
+  });
+  pagination.appendChild(nextBtn);
+  highlightPagination();
+}
+
+function createPaginationButton(text, className, clickHandler) {
+  const btn = document.createElement('button');
+  btn.textContent = text;
+  if (className) {
+    btn.classList.add('pagination__btn', className);
+  } else {
+    btn.classList.add('pagination__btn');
+  }
+  btn.addEventListener('click', clickHandler);
+  return btn;
+}
+
+function highlightPagination() {
+  const startIdx = (currentIndex - 1) * tableSize + 1;
+  const endIdx = Math.min(startIdx + tableSize - 1, arrayLength);
+
+  entries.textContent = `Showing data ${startIdx} to ${endIdx} of ${arrayLength}K entries`;
+
+  const paginationBtns = document.querySelectorAll('.pagination__box button');
+  paginationBtns.forEach(btn => {
+    btn.classList.remove('pagination__active-btn');
+    if (btn.textContent === currentIndex.toString()) {
+      btn.classList.add('pagination__active-btn');
+    }
+  });
+
+  generateTableRows();
+  generateUserCards();
+}
+
+function paginationBtn(i) {
+  if (i >= 1 && i <= maxIndex) {
+    currentIndex = i;
+    displayPagination();
+  } else if (i < 1) {
+    currentIndex = 1;
+    displayPagination();
+  } else if (i > maxIndex) {
+    currentIndex = maxIndex;
+    displayPagination();
+  }
+}
+
+searchInput.addEventListener('input', () => {
+  const searchTerm = searchInput.value.toLowerCase().trim();
+
+  if (searchTerm !== "") {
+    const filteredData = peopleData.filter((person) => {
+      const fullName = person.name.toLowerCase();
+      const company = person.company.toLowerCase();
+      const country = person.country.toLowerCase();
+      const status = person.status.toLowerCase();
+
+      return (
+        fullName.includes(searchTerm) ||
+        company.includes(searchTerm) ||
+        country.includes(searchTerm) ||
+        status.includes(searchTerm)
+      );
+    });
+    peopleData = filteredData;
+    currentIndex = 1;
+    maxIndex = Math.ceil(filteredData.length / tableSize);
+    displayPagination();
+
+    const startIdx = (currentIndex - 1) * tableSize + 1;
+    const endIdx = Math.min(startIdx + tableSize - 1, filteredData.length);
+    entries.textContent = `Showing data ${startIdx} to ${endIdx} of ${filteredData.length} entries`;
+  } else {
+    peopleData = [...originalData];
+    currentIndex = 1;
+    maxIndex = Math.ceil(peopleData.length / tableSize);
+    displayPagination();
+    const startIdx = (currentIndex - 1) * tableSize + 1;
+    const endIdx = Math.min(startIdx + tableSize - 1, peopleData.length);
+    entries.textContent = `Showing data ${startIdx} to ${endIdx} of ${peopleData.length} entries`;
+  }
+});
+
+displayPagination();
