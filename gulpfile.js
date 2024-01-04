@@ -18,8 +18,7 @@ const server = () => {
   browserSync.init({
     server: {
       baseDir: path.root
-    },
-    open: false
+    }
   });
 }
 
