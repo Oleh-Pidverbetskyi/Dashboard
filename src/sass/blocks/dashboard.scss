@@ -1,0 +1,187 @@
+.dashboard {
+  background-color: #fafbff;
+  height: auto;
+  width: 100%;
+  display: flex;
+  gap: 69px;
+
+  @include respond-to(1300px) {
+    gap: 20px;
+  }
+  @include respond-to(1230px) {
+    gap: 10px;
+  }
+
+  @include respond-to(1000px) {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &__title {
+    margin-top: 41px;
+    margin-bottom: 47px;
+    color: #000;
+    font-size: 24px;
+    font-weight: 500;
+
+    @include respond-to(1330px) {
+      font-size: 18px;
+    }
+
+    @include respond-to(1000px) {
+      margin-top: 0;
+      margin-bottom: 15px;
+      padding-left: 38px;
+    }
+  }
+
+  &__nav {
+    width: 308px;
+    background-color: #fff;
+    height: 100%;
+    padding: 37px 28px 78px;
+    box-shadow: 0px 10px 60px 0px rgba(226, 236, 249, 0.5);
+
+    @include respond-to(1230px) {
+      width: min-content;
+    }
+
+    @include respond-to(1038px) {
+      border-bottom-right-radius: 30px;
+    }
+
+    @include respond-to(1000px) {
+      display: flex;
+      width: 100%;
+      border-bottom-left-radius: 30px;
+      padding: 37px 28px;
+      gap: 20px;
+      justify-content: space-between;
+      align-items: baseline;
+    }
+    @include respond-to(750px) {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+
+  &__logo-wrap {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 53px;
+
+    @include respond-to(1000px) {
+      margin-bottom: 0;
+    }
+  }
+
+  &__logo-img {
+    width: 36px;
+    height: 36px;
+
+    @include respond-to(1330px) {
+      width: 24px;
+      height: 24px;
+    }
+    @include respond-to(1220px) {
+      width: 20px;
+      height: 20px;
+    }
+  }
+
+  &__logo-title {
+    color: #000;
+    font-size: 26px;
+    font-weight: 600;
+    letter-spacing: 0.26px;
+
+    @include respond-to(1330px) {
+      font-size: 18px;
+    }
+  }
+  &__logo-version {
+    color: #838383;
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: -0.1px;
+    margin-left: -1px;
+  }
+
+  &__card-user {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 585px;
+
+    @include respond-to(1038px) {
+      margin-top: 320px;
+    }
+
+    @include respond-to(1000px) {
+      display: none;
+    }
+  }
+
+  &__card-user--tablet {
+    @include respond-above(1000px) {
+      display: none;
+    }
+
+    @include respond-to(1000px) {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-top: 40px;
+      margin-bottom: 10px;
+      padding-left: 38px;
+    }
+  }
+
+  &__card-name {
+    display: flex;
+    flex-direction: column;
+    color: #000;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.14px;
+  }
+  &__card-position {
+    color: #757575;
+    font-size: 12px;
+    letter-spacing: 0.12px;
+  }
+
+  &__body {
+    width: 968px;
+    height: auto;
+    fill: #fff;
+    filter: drop-shadow(0px 10px 60px rgba(226, 236, 249, 0.5));
+    background-color: #fff;
+    border-radius: 25px;
+    padding-bottom: 38px;
+
+    @include respond-to(1206px) {
+      max-width: 850px;
+    }
+    @include respond-to(1100px) {
+      max-width: 800px;
+    }
+    @include respond-to(1038px) {
+      max-width: 750px;
+    }
+    @include respond-to(770px) {
+      width: auto;
+      padding: 38px;
+    }
+    @include respond-to(500px) {
+      padding: 38px 10px;
+    }
+
+    @include respond-to(420px) {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+}
